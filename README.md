@@ -1,2 +1,2 @@
 # checksum
-checksum - various hash sums for a string of text
+Various hash sums for a string of text.
