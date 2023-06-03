@@ -9,6 +9,8 @@ namespace checksum
         public Form1()
         {
             InitializeComponent();
+
+            tbInput.MaxLength = int.MaxValue;
         }
 
         private void tbInput_TextChanged(object sender, EventArgs e)
